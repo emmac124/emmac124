@@ -18,4 +18,7 @@ I'm Emma! I'm a full stack software development student at Lambda School who lov
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=emmac124&theme=cobalt&show_icons=true)
 
-
+-------------------------------------------------------------------------------
+<!-- 
+#### Thanks for stopping by, here's a joke that'll hopefully brighten your day!
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
