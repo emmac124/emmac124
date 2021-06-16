@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 
 I'm Emma! I'm a full stack software developer who loves meeting new and creative people, building beautiful websites, and advancing my knowlege in technology.
 
