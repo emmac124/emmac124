@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Emma! I'm a full stack software development student at Lambda School who loves meeting new and creative people, building beautiful websites, and advancing my knowlege within technology.
+I'm Emma! I'm a full stack software developer who graduated from Lambda School. I love meeting new and creative people, building beautiful websites, and advancing my knowlege within technology.
 
 - 🌱 I’m currently learning PHP and Wordpress
 - 🔭 I’m currently working on building exciting new portfolio peices
