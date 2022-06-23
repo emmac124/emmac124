@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-I'm Emma! I'm a full stack software developer who graduated from Lambda School. I love meeting new and creative people, building beautiful websites, and advancing my knowlege within technology.
+I'm Emma! I'm a full stack software developer who graduated from Lambda School now known as BloomTech. I love meeting new and creative people, building beautiful websites, and advancing my knowlege within technology.
 
-- 🌱 I’m currently learning new Front-End languages
+- 🌱 I’m currently learning SQL for Data Analytics
 - 🔭 I’m currently working on building exciting new portfolio projects
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: emma.cooperhawkins@gmail.com || [Twitter](https://twitter.com/Emma_Cooper124)   
